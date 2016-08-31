@@ -33,7 +33,7 @@
     <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>0</number>
+       <number>1</number>
       </property>
       <widget class="QWidget" name="trafi">
        <attribute name="title">
@@ -91,7 +91,26 @@
          <number>0</number>
         </property>
         <item>
-         <widget class="QTreeView" name="nettiautoTreeView"/>
+         <widget class="QTreeView" name="nettiautoTreeView">
+          <property name="editTriggers">
+           <set>QAbstractItemView::NoEditTriggers</set>
+          </property>
+          <property name="alternatingRowColors">
+           <bool>true</bool>
+          </property>
+          <property name="rootIsDecorated">
+           <bool>false</bool>
+          </property>
+          <property name="uniformRowHeights">
+           <bool>true</bool>
+          </property>
+          <property name="sortingEnabled">
+           <bool>true</bool>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
         </item>
         <item>
          <layout class="QHBoxLayout" name="horizontalLayout">
@@ -107,6 +126,13 @@
              </size>
             </property>
            </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="parsePushButton">
+            <property name="text">
+             <string>Parse data</string>
+            </property>
+           </widget>
           </item>
           <item>
            <widget class="QPushButton" name="fetchPushButton">

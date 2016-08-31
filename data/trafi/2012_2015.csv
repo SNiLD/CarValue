@@ -1,0 +1,136 @@
+Merkki,Malli,Hylkäys %,Yleisin hylkäyssyy,Toiseksi yleisin hylkäyssyy
+Kaikki yhteensä,"","3,0","",""
+"","","","",""
+Audi,A7,"0,0","",""
+Suzuki,SWIFT,"0,0","",""
+Suzuki,SX4,"0,3","",""
+Toyota,COROLLA,"0,5","",""
+Seat,LEON,"0,6","",""
+Skoda,ROOMSTER,"0,6","",""
+Toyota,LAND CRUISER,"0,7","",""
+Honda,JAZZ,"0,7","",""
+Mitsubishi,OUTLANDER,"0,9","",""
+Volkswagen,TIGUAN,"1,0",Bensiinimoottorin pakokaasumittaus,Valmistajan kilpi
+Toyota,AURIS,"1,0","",""
+Seat,IBIZA,"1,0","",""
+Toyota,PRIUS,"1,1","",""
+Ford,KUGA,"1,1","",""
+Volvo,XC 60,"1,1",Taka-akselisto,Valmistajan kilpi
+Audi,Q3,"1,1",Käyttöjarrun dynamometritesti,Valmistajan kilpi
+Skoda,YETI,"1,1","",""
+Mazda,3,"1,1","",""
+Nissan,JUKE,"1,1","",""
+Audi,Q5,"1,2",Sisäinen valvontajärjestelmä (OBD),Polttoainevuodot
+Audi,A5,"1,2","",""
+Skoda,CITIGO,"1,2","",""
+Mini,COOPER/ ONE,"1,2","",""
+Honda,CIVIC,"1,2","",""
+Toyota,YARIS,"1,2","",""
+Peugeot,208,"1,4","",""
+Skoda,OCTAVIA,"1,4","",""
+Volkswagen,UP!,"1,4","",""
+Audi,A4,"1,5","",""
+Volkswagen,GOLF,"1,5",Bensiinimoottorin pakokaasumittaus,Renkaat ja vanteet
+Toyota,AVENSIS,"1,5","",""
+Seat,EXEO,"1,5",Dieselmoottorin pakokaasumittaus,Renkaat ja vanteet
+Mitsubishi,ASX,"1,6","",""
+Suzuki,ALTO,"1,6","",""
+Volkswagen,BEETLE,"1,6","",""
+Audi,A6,"1,6","",""
+Honda,CR-V,"1,7","",""
+Mazda,6,"1,7","",""
+Volkswagen,CC,"1,7",Valmistajan kilpi,Renkaat ja vanteet
+Honda,ACCORD,"1,8","",""
+Nissan,QASHQAI,"1,8","",""
+Toyota,VERSO-S,"1,8","",""
+Kia,SOUL,"1,8","",""
+Opel,ZAFIRA,"1,9","",""
+Mercedes-Benz,GLK,"1,9","",""
+Audi,A3,"1,9",Renkaat ja vanteet,Bensiinimoottorin pakokaasumittaus
+Volkswagen,JETTA,"2,0",Bensiinimoottorin pakokaasumittaus,Käyttöjarru
+Volvo,S40,"2,0","",""
+Ford,FIESTA,"2,0",Ohjausnivelet ja -tangot,Renkaat ja vanteet
+Skoda,FABIA,"2,0","",""
+Volkswagen,PASSAT,"2,0",Renkaat ja vanteet,Sisäinen valvontajärjestelmä (OBD)
+Hyundai,I30,"2,0",Seisontajarrun dynamometritesti,Valmistajan kilpi
+Ford,FOCUS,"2,1","",""
+Toyota,RAV4,"2,1","",""
+Lexus,CT200H,"2,1","",""
+Volkswagen,POLO,"2,2",Jousitus ja iskunvaimennus,Sisäinen valvontajärjestelmä (OBD)
+Volvo,V50,"2,2",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Opel,ASTRA,"2,2","",""
+Skoda,SUPERB,"2,2","",""
+Mercedes-Benz,M,"2,3","",""
+Volvo,C70,"2,3","",""
+Citroen,DS5,"2,4","",""
+Volkswagen,SHARAN,"2,4","",""
+Volkswagen,TOURAN,"2,4",Renkaat ja vanteet,Etuakselisto
+Nissan,NOTE,"2,6","",""
+Kia,OPTIMA,"2,6","",""
+BMW,1,"2,6","",""
+Ford,FOCUS C-MAX,"2,7",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Kia,RIO,"2,7","",""
+Toyota,VERSO,"2,7","",""
+Kia,CEED,"2,8",Seisontajarrun dynamometritesti,Renkaat ja vanteet
+Citroen,DS3,"2,8","",""
+Audi,A1,"2,9",Renkaat ja vanteet,Bensiinimoottorin pakokaasumittaus
+BMW,3,"3,0",Valmistajan kilpi,Renkaat ja vanteet
+Mercedes-Benz,C,"3,0","",""
+Subaru,LEGACY,"3,1","",""
+Nissan,MICRA,"3,2","",""
+Opel,INSIGNIA,"3,2",Käyttöjarru,Renkaat ja vanteet
+Toyota,AYGO,"3,2","",""
+Chevrolet,AVEO,"3,2","",""
+Mercedes-Benz,B,"3,3",Renkaat ja vanteet,Sisäinen valvontajärjestelmä (OBD)
+Citroen,C3,"3,3",Sisäinen valvontajärjestelmä (OBD),Etuakselisto
+Citroen,BERLINGO,"3,3","",""
+Mercedes-Benz,CLS,"3,5","",""
+Renault,MEGANE,"3,5","",""
+Dacia,DUSTER,"3,6","",""
+Peugeot,107,"3,7","",""
+Volvo,V40,"3,7",Jousitus ja iskunvaimennus,Valmistajan kilpi
+Seat,ALTEA,"3,7","",""
+Subaru,FORESTER,"3,8","",""
+Citroen,C1,"3,8","",""
+BMW,X3,"3,9",Valmistajan kilpi,Renkaat ja vanteet
+Alfa Romeo,GIULIETTA,"3,9","",""
+Renault,TWINGO,"4,0","",""
+Kia,VENGA,"4,1",Jousitus ja iskunvaimennus,Käyttöjarru
+BMW,5,"4,1",Renkaat ja vanteet,Käyttöjarru
+Opel,CORSA,"4,1","",""
+Hyundai,I20,"4,3",Käyttöjarrun dynamometritesti,Jousitus ja iskunvaimennus
+Mazda,5,"4,3","",""
+Ford,MONDEO,"4,3",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Kia,PICANTO,"4,4","",""
+Peugeot,508,"4,4",Sisäinen valvontajärjestelmä (OBD),Valmistajan kilpi
+Mercedes-Benz,A,"4,6",Jousitus ja iskunvaimennus,Renkaat ja vanteet
+Chevrolet,CRUZE,"4,8",Valmistajan kilpi,Käyttöjarrun dynamometritesti
+Chevrolet,ORLANDO,"4,8","",""
+Citroen,C4,"4,9",Valmistajan kilpi,Sisäinen valvontajärjestelmä (OBD)
+Kia,SORENTO,"5,2","",""
+Seat,ALHAMBRA,"5,4","",""
+Peugeot,308,"5,4",Valmistajan kilpi,Etuakselisto
+Hyundai,IX20,"5,5","",""
+Ford,S-MAX,"5,8","",""
+Volvo,V60,"6,1",Etuakselisto,Renkaat ja vanteet
+Fiat,PUNTO,"6,3","",""
+Volvo,S80,"6,3","",""
+Land Rover,RANGE ROVER,"6,4","",""
+Volkswagen,CADDY,"6,7",Renkaat ja vanteet,Käyttöjarru
+Peugeot,5008,"6,7","",""
+Peugeot,3008,"6,8",Valmistajan kilpi,Etuakselisto
+Opel,MERIVA,"7,0","",""
+Volvo,S60,"7,3",Etuakselisto,Renkaat ja vanteet
+Kia,SPORTAGE,"7,5",Ohjausnivelet ja -tangot,Seisontajarrun dynamometritesti
+Hyundai,IX35,"7,6",Ohjausnivelet ja -tangot,Käyttöjarru
+Ford,TRANSIT,"7,7","",""
+Mercedes-Benz,E,"7,8",Renkaat ja vanteet,Seisontajarrun dynamometritesti
+Citroen,C4 PICASSO,"8,1","",""
+Hyundai,I40,"8,2",Etuakselisto,Ohjausnivelet ja -tangot
+Volvo,V70,"8,5",Etuakselisto,Renkaat ja vanteet
+Renault,CLIO,"8,6",Etuakselisto,Seisontajarrun dynamometritesti
+Jeep,COMPASS,"8,8",Taka-akselisto,Valmistajan kilpi
+Volkswagen,CARAVELLE,"9,4","",""
+Peugeot,206,"11,7",Ohjausnivelet ja -tangot,Käyttöjarrun dynamometritesti
+Citroen,C5,"11,9",Ohjausnivelet ja -tangot,Etuakselisto
+Fiat,500,"12,3",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)

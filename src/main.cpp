@@ -1,5 +1,4 @@
 #include "CarValueApplication.h"
-#include "CsvParser.h"
 
 #include <QDateTime>
 #include <QtDebug>
@@ -42,12 +41,5 @@ int main(int argc, char** argv)
 {
     qInstallMessageHandler(MessageHandler);
     CarValueApplication application(argc, argv);
-
-    CsvParser parser;
-    parser.setItemModel(application.getModel());
-    parser.parseTrafi("data/trafi");
-    parser.parseRust("data");
-    parser.calculateAverages();
-
     return application.exec();
 }

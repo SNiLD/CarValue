@@ -1,153 +1,154 @@
-Merkki;Malli;Hylkäys %;Yleisin hylkäyssyy;Toiseksi yleisin hylkäyssyy;Kolmanneksi yleisin hylkäyssyy
-Kaikki yhteensä;;11.58;;;
-Suzuki;GRAND VITARA;2.23;;;
-Audi;A5;2.59;;;
-Honda;JAZZ;2.88;;;
-Toyota;AURIS;2.92;Käyttöjarru;Käyttöjarrun dynamometritesti;Renkaat ja vanteet
-Audi;TT;3.32;;;
-Suzuki;LIANA;3.5;;;
-Toyota;YARIS;3.65;;;
-Honda;FR-V;3.73;;;
-Toyota;COROLLA;3.87;Käyttöjarru;Renkaat ja vanteet;Käyttöjarrun dynamometritesti
-Mitsubishi;COLT;3.89;;;
-Audi;A3;3.9;;;
-Volkswagen;TOUAREG;3.94;;;
-Volvo;C30;4.56;;;
-Toyota;AVENSIS;4.68;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD);Renkaat ja vanteet
-Nissan;ALMERA;4.7;Käyttöjarru;Käyttöjarrun dynamometritesti;Renkaat ja vanteet
-Suzuki;SWIFT;4.9;;;
-Mitsubishi;PAJERO;5.08;;;
-Mazda;6;5.15;Käyttöjarru;Käyttöjarrun dynamometritesti;Etuakselisto
-Hyundai;GETZ;5.22;Sisäinen valvontajärjestelmä (OBD);Käyttöjarrun dynamometritesti;Renkaat ja vanteet
-Audi;A6;5.27;Sisäinen valvontajärjestelmä (OBD);Renkaat ja vanteet;Jousitus ja iskunvaimennus
-Volkswagen;GOLF;5.27;;;
-Subaru;LEGACY;5.41;;;
-Subaru;IMPREZA;5.5;;;
-Volkswagen;NEW BEETLE;5.51;;;
-Volvo;S40;5.61;Etuakselisto;Jousitus ja iskunvaimennus;Renkaat ja vanteet
-Subaru;FORESTER;6.06;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru
-Toyota;AYGO;6.13;Käyttöjarru;Renkaat ja vanteet;Seisontajarrun dynamometritesti
-Ford;FIESTA;6.31;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Jarruvalo
-Toyota;LAND CRUISER;6.53;;;
-Audi;A4;6.54;Dieselmoottorin pakokaasumittaus;Renkaat ja vanteet;Käyttöjarru
-Skoda;OCTAVIA;6.57;Dieselmoottorin pakokaasumittaus;Renkaat ja vanteet;Etuakselisto
-Peugeot;107;6.81;;;
-Honda;ACCORD;6.82;Käyttöjarru;Renkaat ja vanteet;Sisäinen valvontajärjestelmä (OBD)
-Honda;CIVIC;7.07;Jousitus ja iskunvaimennus;Käyttöjarru;Renkaat ja vanteet
-Toyota;PRIUS;7.14;;;
-Ford;FOCUS C-MAX;7.6;Etuakselisto;Renkaat ja vanteet;Käyttöjarrun dynamometritesti
-Audi;Q7;7.79;Etuakselisto;Käyttöjarru;Renkaat ja vanteet
-Volkswagen;JETTA;7.88;Dieselmoottorin pakokaasumittaus;Sisäinen valvontajärjestelmä (OBD);Seisontajarrun dynamometritesti
-Volvo;V50;8.06;Etuakselisto;Jousitus ja iskunvaimennus;Renkaat ja vanteet
-Honda;CR-V;8.27;Ohjausnivelet ja -tangot;Käyttöjarru;Jousitus ja iskunvaimennus
-Kia;PICANTO;8.33;Käyttöjarru;Käyttöjarrun dynamometritesti;Seisontajarrun dynamometritesti
-Mazda;2;8.38;;;
-Volkswagen;POLO;8.48;Etuakselisto;Seisontajarrun dynamometritesti;Renkaat ja vanteet
-Saab;9-5;8.5;Taka-akselisto;Sisäinen valvontajärjestelmä (OBD);Renkaat ja vanteet
-Mitsubishi;LANCER;8.51;Sisäinen valvontajärjestelmä (OBD);Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus
-Volkswagen;TOURAN;8.52;Dieselmoottorin pakokaasumittaus;Bensiinimoottorin pakokaasumittaus;Sisäinen valvontajärjestelmä (OBD)
-Mazda;3;8.6;Jousitus ja iskunvaimennus;Etuakselisto;Sisäinen valvontajärjestelmä (OBD)
-Seat;LEON;8.7;Dieselmoottorin pakokaasumittaus;Sisäinen valvontajärjestelmä (OBD);Renkaat ja vanteet
-Jaguar;S-TYPE;8.7;;;
-Opel;MERIVA;8.94;;;
-Toyota;RAV4;9.04;Jousitus ja iskunvaimennus;Käyttöjarru;Renkaat ja vanteet
-BMW;X5;9.09;Jousitus ja iskunvaimennus;Käyttöjarru;Etuakselisto
-Nissan;X-TRAIL;9.24;Ohjausnivelet ja -tangot;Käyttöjarru;Etuakselisto
-Volkswagen;PASSAT;9.27;Dieselmoottorin pakokaasumittaus;Etuakselisto;Renkaat ja vanteet
-Nissan;QASHQAI;9.3;Etuakselisto;Käyttöjarru;Seisontajarrun dynamometritesti
-BMW;3;9.55;Ohjausnivelet ja -tangot;Taka-akselisto;Jousitus ja iskunvaimennus
-Toyota;HIACE;9.55;;;
-Hyundai;ACCENT;9.62;;;
-Jeep;CHEROKEE;10.21;;;
-Volvo;C70;10.32;Ohjausnivelet ja -tangot;Käyttöjarru;Etuakselisto
-Seat;ALTEA;10.57;Dieselmoottorin pakokaasumittaus;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD)
-Ford;FOCUS;10.67;Jousitus ja iskunvaimennus;Etuakselisto;Dieselmoottorin pakokaasumittaus
-BMW;1;10.8;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD);Taka-akselisto
-Mercedes-Benz;CLS;11.11;;;
-Kia;RIO;11.11;Käyttöjarru;Etuakselisto;Käyttöjarrun dynamometritesti
-Skoda;FABIA;11.19;Etuakselisto;Käyttöjarru;Seisontajarrun dynamometritesti
-Chevrolet;AVEO;11.23;Etuakselisto;Sisäinen valvontajärjestelmä (OBD);Turvavyöt ja -varusteet
-Ford;S-MAX;11.24;Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus;Käyttöjarru
-Peugeot;206;11.26;Sisäinen valvontajärjestelmä (OBD);Ohjausnivelet ja -tangot;Käyttöjarrun dynamometritesti
-Land Rover;RANGE ROVER;11.54;;;
-Mini;COOPER/ ONE;11.61;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru;Bensiinimoottorin pakokaasumittaus
-Mitsubishi;GRANDIS;11.63;;;
-Kia;CERATO;11.71;Käyttöjarru;Jousitus ja iskunvaimennus;Seisontajarrun dynamometritesti
-Mercedes-Benz;A;12.33;Jousitus ja iskunvaimennus;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD)
-Skoda;SUPERB;12.5;;;
-Kia;CEED;12.56;Käyttöjarru;Käyttöjarrun dynamometritesti;Taka-akselisto
-Peugeot;407;12.72;Etuakselisto;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD)
-Mitsubishi;OUTLANDER;12.82;Käyttöjarru;Taka-akselisto;Ohjausnivelet ja -tangot
-Skoda;ROOMSTER;12.93;Etuakselisto;Seisontajarrun dynamometritesti;Käyttöjarru
-Citroen;C2;13.02;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru;Ohjausnivelet ja -tangot
-Suzuki;SX4;13.04;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru
-Hyundai;TUCSON;13.04;Jousitus ja iskunvaimennus;Käyttöjarru;Etuakselisto
-BMW;X3;13.25;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru
-Volvo;S80;13.4;Seisontajarrun dynamometritesti;Ohjausnivelet ja -tangot;Käyttöjarru
-Saab;9-3;13.51;Jousitus ja iskunvaimennus;Taka-akselisto;Käyttöjarru
-Ford;KA;13.61;Etuakselisto;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD)
-Ford;GALAXY;13.89;;;
-Volvo;S60;13.93;Käyttöjarru;Ohjausnivelet ja -tangot;Seisontajarrun dynamometritesti
-Citroen;XSARA PICASSO;13.99;Ohjausnivelet ja -tangot;Sisäinen valvontajärjestelmä (OBD);Seisontajarrun dynamometritesti
-Mercedes-Benz;B;14.09;Jousitus ja iskunvaimennus;Seisontajarrun dynamometritesti;Käyttöjarru
-Volkswagen;CARAVELLE;14.39;Ohjausnivelet ja -tangot;Turvavyöt ja -varusteet;Sisäinen valvontajärjestelmä (OBD)
-Opel;VECTRA;14.79;Jousitus ja iskunvaimennus;Renkaat ja vanteet;Etuakselisto
-Opel;ASTRA;14.86;Sisäinen valvontajärjestelmä (OBD);Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus
-Volvo;V70;15;Käyttöjarru;Ohjausnivelet ja -tangot;Renkaat ja vanteet
-Chevrolet;KALOS;15.25;Sisäinen valvontajärjestelmä (OBD);Turvavyöt ja -varusteet;Etuakselisto
-Mercedes-Benz;M;15.28;Käyttöjarru;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD)
-Nissan;NOTE;15.4;Etuakselisto;Jousitus ja iskunvaimennus;Käyttöjarru
-Opel;CORSA;15.45;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru
-Mercedes-Benz;G;15.45;Käyttöjarru;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD)
-Hyundai;I 30;15.63;;;
-Ford;MONDEO;15.76;Dieselmoottorin pakokaasumittaus;Jousitus ja iskunvaimennus;Ohjausnivelet ja -tangot
-Seat;IBIZA;15.84;Käyttöjarru;Etuakselisto;Jousitus ja iskunvaimennus
-Kia;SPORTAGE;16.04;Jousitus ja iskunvaimennus;Käyttöjarru;Etuakselisto
-Kia;SORENTO;16.06;Etuakselisto;Seisontajarrun dynamometritesti;Käyttöjarru
-Hyundai;SONATA;16.22;Seisontajarrun dynamometritesti;Käyttöjarru;Etuakselisto
-Nissan;MICRA;16.33;Etuakselisto;Ohjausnivelet ja -tangot;Käyttöjarru
-Volkswagen;CADDY;16.4;Dieselmoottorin pakokaasumittaus;Jousitus ja iskunvaimennus;Renkaat ja vanteet
-Land Rover;FREELANDER;16.48;Ohjausnivelet ja -tangot;Seisontajarrun dynamometritesti;Renkaat ja vanteet
-Citroen;C4 PICASSO;16.5;Etuakselisto;Käyttöjarru;Renkaat ja vanteet
-Citroen;C3;16.59;Sisäinen valvontajärjestelmä (OBD);Jarruvalo;Etuakselisto
-Mercedes-Benz;C;16.85;Etuakselisto;Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus
-BMW;5;16.86;Ohjausnivelet ja -tangot;Käyttöjarru;Renkaat ja vanteet
-Opel;ZAFIRA;16.93;Ohjausnivelet ja -tangot;Taka-akselisto;Käyttöjarru
-Kia;MAGENTIS;16.99;;;
-Nissan;PRIMERA;17.14;Ohjausnivelet ja -tangot;Etuakselisto;Käyttöjarru
-Fiat;PUNTO;17.62;Jousitus ja iskunvaimennus;Sisäinen valvontajärjestelmä (OBD);Ohjausnivelet ja -tangot
-Volvo;XC90;17.68;Jousitus ja iskunvaimennus;Seisontajarrun dynamometritesti;Ohjausnivelet ja -tangot
-Chevrolet;CAPTIVA;18.06;Etuakselisto;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD)
-Peugeot;207;18.26;Etuakselisto;Jarruvalo;Sisäinen valvontajärjestelmä (OBD)
-Fiat;BRAVO;18.35;;;
-Ford;TOURNEO;18.52;;;
-Nissan;TIIDA;18.92;Etuakselisto;Jousitus ja iskunvaimennus;Käyttöjarru
-Chevrolet;EPICA;19.01;Käyttöjarru;Taka-akselisto;Seisontajarrun dynamometritesti
-Chrysler;SEBRING;19.43;Ohjausnivelet ja -tangot;Sisäinen valvontajärjestelmä (OBD);Käyttöjarru
-Chevrolet;NUBIRA;19.46;Käyttöjarru;Seisontajarrun dynamometritesti;Jousitus ja iskunvaimennus
-Mazda;5;20.05;Jousitus ja iskunvaimennus;Etuakselisto;Renkaat ja vanteet
-Citroen;C4;20.18;Ohjausnivelet ja -tangot;Etuakselisto;Käyttöjarru
-Hyundai;SANTA FE;20.41;Etuakselisto;Seisontajarrun dynamometritesti;Jousitus ja iskunvaimennus
-Peugeot;307;20.49;Ohjausnivelet ja -tangot;Dieselmoottorin pakokaasumittaus;Etuakselisto
-Land Rover;DISCOVERY 3;20.86;;;
-Mercedes-Benz;E;21.24;Etuakselisto;Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus
-Citroen;C5;21.27;Etuakselisto;Ohjausnivelet ja -tangot;Seisontajarrun dynamometritesti
-Dodge;AVENGER;21.32;Ohjausnivelet ja -tangot;Käyttöjarru;Sisäinen valvontajärjestelmä (OBD)
-Renault;CLIO;21.37;Ohjausnivelet ja -tangot;Etuakselisto;Jousitus ja iskunvaimennus
-Chrysler;VOYAGER;22.1;Ohjausnivelet ja -tangot;Seisontajarrun dynamometritesti;Käyttöjarru
-Jaguar;X-TYPE;22.3;Taka-akselisto;Dieselmoottorin pakokaasumittaus;Renkaat ja vanteet
-Alfa Romeo;159;22.51;Etuakselisto;Jousitus ja iskunvaimennus;Ohjausnivelet ja -tangot
-Fiat;ALBEA;23.05;Etuakselisto;Ohjausnivelet ja -tangot;Bensiinimoottorin pakokaasumittaus
-Volkswagen;TRANSPORTER;23.17;Käyttöjarru;Jousitus ja iskunvaimennus;Ohjausnivelet ja -tangot
-Dodge;NITRO;24.87;Seisontajarrun dynamometritesti;Etuakselisto;Sisäinen valvontajärjestelmä (OBD)
-Renault;MEGANE;25.08;Etuakselisto;Ohjausnivelet ja -tangot;Käyttöjarru
-Fiat;CROMA;25.15;Jousitus ja iskunvaimennus;Taka-akselisto;Etuakselisto
-Fiat;STILO;26.15;Ohjausnivelet ja -tangot;Jousitus ja iskunvaimennus;Etuakselisto
-Kia;CARENS;27.23;Seisontajarrun dynamometritesti;Taka-akselisto;Käyttöjarru
-Mazda;CX-7;27.48;Ohjausnivelet ja -tangot;Seisontajarrun dynamometritesti;Bensiinimoottorin pakokaasumittaus
-Kia;CARNIVAL;28.48;Taka-akselisto;Etuakselisto;Seisontajarrun dynamometritesti
-Renault;LAGUNA;32.62;Etuakselisto;Ohjausnivelet ja -tangot;Käyttöjarru
-Chrysler;300;37.02;Seisontajarrun dynamometritesti;Ohjausnivelet ja -tangot;Etuakselisto
-Jeep;PATRIOT;37.82;Taka-akselisto;Etuakselisto;Ohjausnivelet ja -tangot
-Jeep;COMPASS;43.72;Taka-akselisto;Etuakselisto;Ohjausnivelet ja -tangot
-Dodge;CALIBER;44.54;Taka-akselisto;Etuakselisto;Ohjausnivelet ja -tangot
+Merkki,Malli,HylkÃ¤ys %,Yleisin hylkÃ¤yssyy,Toiseksi yleisin hylkÃ¤yssyy
+Kaikki yhteensÃ¤,"","11,58","",""
+"","","","",""
+Suzuki,GRAND VITARA,"2,23","",""
+Audi,A5,"2,59","",""
+Honda,JAZZ,"2,88","",""
+Toyota,AURIS,"2,92",KÃ¤yttÃ¶jarru,KÃ¤yttÃ¶jarrun dynamometritesti
+Audi,TT,"3,32","",""
+Suzuki,LIANA,"3,50","",""
+Toyota,YARIS,"3,65","",""
+Honda,FR-V,"3,73","",""
+Toyota,COROLLA,"3,87",KÃ¤yttÃ¶jarru,Renkaat ja vanteet
+Mitsubishi,COLT,"3,89","",""
+Audi,A3,"3,90","",""
+Volkswagen,TOUAREG,"3,94","",""
+Volvo,C30,"4,56","",""
+Toyota,AVENSIS,"4,68",KÃ¤yttÃ¶jarru,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Nissan,ALMERA,"4,70",KÃ¤yttÃ¶jarru,KÃ¤yttÃ¶jarrun dynamometritesti
+Suzuki,SWIFT,"4,90","",""
+Mitsubishi,PAJERO,"5,08","",""
+Mazda,6,"5,15",KÃ¤yttÃ¶jarru,KÃ¤yttÃ¶jarrun dynamometritesti
+Hyundai,GETZ,"5,22",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),KÃ¤yttÃ¶jarrun dynamometritesti
+Audi,A6,"5,27",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),Renkaat ja vanteet
+Volkswagen,GOLF,"5,27","",""
+Subaru,LEGACY,"5,41","",""
+Subaru,IMPREZA,"5,50","",""
+Volkswagen,NEW BEETLE,"5,51","",""
+Volvo,S40,"5,61",Etuakselisto,Jousitus ja iskunvaimennus
+Subaru,FORESTER,"6,06",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Toyota,AYGO,"6,13",KÃ¤yttÃ¶jarru,Renkaat ja vanteet
+Ford,FIESTA,"6,31",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Toyota,LAND CRUISER,"6,53","",""
+Audi,A4,"6,54",Dieselmoottorin pakokaasumittaus,Renkaat ja vanteet
+Skoda,OCTAVIA,"6,57",Dieselmoottorin pakokaasumittaus,Renkaat ja vanteet
+Peugeot,107,"6,81","",""
+Honda,ACCORD,"6,82",KÃ¤yttÃ¶jarru,Renkaat ja vanteet
+Honda,CIVIC,"7,07",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+Toyota,PRIUS,"7,14","",""
+Ford,FOCUS C-MAX,"7,60",Etuakselisto,Renkaat ja vanteet
+Audi,Q7,"7,79",Etuakselisto,KÃ¤yttÃ¶jarru
+Volkswagen,JETTA,"7,88",Dieselmoottorin pakokaasumittaus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Volvo,V50,"8,06",Etuakselisto,Jousitus ja iskunvaimennus
+Honda,CR-V,"8,27",Ohjausnivelet ja -tangot,KÃ¤yttÃ¶jarru
+Kia,PICANTO,"8,33",KÃ¤yttÃ¶jarru,KÃ¤yttÃ¶jarrun dynamometritesti
+Mazda,2,"8,38","",""
+Volkswagen,POLO,"8,48",Etuakselisto,Seisontajarrun dynamometritesti
+Saab,9-5,"8,50",Taka-akselisto,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Mitsubishi,LANCER,"8,51",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),Ohjausnivelet ja -tangot
+Volkswagen,TOURAN,"8,52",Dieselmoottorin pakokaasumittaus,Bensiinimoottorin pakokaasumittaus
+Mazda,3,"8,60",Jousitus ja iskunvaimennus,Etuakselisto
+Seat,LEON,"8,70",Dieselmoottorin pakokaasumittaus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Jaguar,S-TYPE,"8,70","",""
+Opel,MERIVA,"8,94","",""
+Toyota,RAV4,"9,04",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+BMW,X5,"9,09",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+Nissan,X-TRAIL,"9,24",Ohjausnivelet ja -tangot,KÃ¤yttÃ¶jarru
+Volkswagen,PASSAT,"9,27",Dieselmoottorin pakokaasumittaus,Etuakselisto
+Nissan,QASHQAI,"9,30",Etuakselisto,KÃ¤yttÃ¶jarru
+BMW,3,"9,55",Ohjausnivelet ja -tangot,Taka-akselisto
+Toyota,HIACE,"9,55","",""
+Hyundai,ACCENT,"9,62","",""
+Jeep,CHEROKEE,"10,21","",""
+Volvo,C70,"10,32",Ohjausnivelet ja -tangot,KÃ¤yttÃ¶jarru
+Seat,ALTEA,"10,57",Dieselmoottorin pakokaasumittaus,KÃ¤yttÃ¶jarru
+Ford,FOCUS,"10,67",Jousitus ja iskunvaimennus,Etuakselisto
+BMW,1,"10,80",KÃ¤yttÃ¶jarru,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Mercedes-Benz,CLS,"11,11","",""
+Kia,RIO,"11,11",KÃ¤yttÃ¶jarru,Etuakselisto
+Skoda,FABIA,"11,19",Etuakselisto,KÃ¤yttÃ¶jarru
+Chevrolet,AVEO,"11,23",Etuakselisto,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Ford,S-MAX,"11,24",Ohjausnivelet ja -tangot,Jousitus ja iskunvaimennus
+Peugeot,206,"11,26",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),Ohjausnivelet ja -tangot
+Land Rover,RANGE ROVER,"11,54","",""
+Mini,COOPER/ ONE,"11,61",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),KÃ¤yttÃ¶jarru
+Mitsubishi,GRANDIS,"11,63","",""
+Kia,CERATO,"11,71",KÃ¤yttÃ¶jarru,Jousitus ja iskunvaimennus
+Mercedes-Benz,A,"12,33",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+Skoda,SUPERB,"12,50","",""
+Kia,CEED,"12,56",KÃ¤yttÃ¶jarru,KÃ¤yttÃ¶jarrun dynamometritesti
+Peugeot,407,"12,72",Etuakselisto,KÃ¤yttÃ¶jarru
+Mitsubishi,OUTLANDER,"12,82",KÃ¤yttÃ¶jarru,Taka-akselisto
+Skoda,ROOMSTER,"12,93",Etuakselisto,Seisontajarrun dynamometritesti
+Citroen,C2,"13,02",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),KÃ¤yttÃ¶jarru
+Suzuki,SX4,"13,04",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Hyundai,TUCSON,"13,04",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+BMW,X3,"13,25",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Volvo,S80,"13,40",Seisontajarrun dynamometritesti,Ohjausnivelet ja -tangot
+Saab,9-3,"13,51",Jousitus ja iskunvaimennus,Taka-akselisto
+Ford,KA,"13,61",Etuakselisto,Jousitus ja iskunvaimennus
+Ford,GALAXY,"13,89","",""
+Volvo,S60,"13,93",KÃ¤yttÃ¶jarru,Ohjausnivelet ja -tangot
+Citroen,XSARA PICASSO,"13,99",Ohjausnivelet ja -tangot,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Mercedes-Benz,B,"14,09",Jousitus ja iskunvaimennus,Seisontajarrun dynamometritesti
+Volkswagen,CARAVELLE,"14,39",Ohjausnivelet ja -tangot,TurvavyÃ¶t ja -varusteet
+Opel,VECTRA,"14,79",Jousitus ja iskunvaimennus,Renkaat ja vanteet
+Opel,ASTRA,"14,86",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),Ohjausnivelet ja -tangot
+Volvo,V70,"15,00",KÃ¤yttÃ¶jarru,Ohjausnivelet ja -tangot
+Chevrolet,KALOS,"15,25",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),TurvavyÃ¶t ja -varusteet
+Mercedes-Benz,M,"15,28",KÃ¤yttÃ¶jarru,Jousitus ja iskunvaimennus
+Nissan,NOTE,"15,40",Etuakselisto,Jousitus ja iskunvaimennus
+Opel,CORSA,"15,45",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Mercedes-Benz,G,"15,45",KÃ¤yttÃ¶jarru,Jousitus ja iskunvaimennus
+Hyundai,I 30,"15,63","",""
+Ford,MONDEO,"15,76",Dieselmoottorin pakokaasumittaus,Jousitus ja iskunvaimennus
+Seat,IBIZA,"15,84",KÃ¤yttÃ¶jarru,Etuakselisto
+Kia,SPORTAGE,"16,04",Jousitus ja iskunvaimennus,KÃ¤yttÃ¶jarru
+Kia,SORENTO,"16,06",Etuakselisto,Seisontajarrun dynamometritesti
+Hyundai,SONATA,"16,22",Seisontajarrun dynamometritesti,KÃ¤yttÃ¶jarru
+Nissan,MICRA,"16,33",Etuakselisto,Ohjausnivelet ja -tangot
+Volkswagen,CADDY,"16,40",Dieselmoottorin pakokaasumittaus,Jousitus ja iskunvaimennus
+Land Rover,FREELANDER,"16,48",Ohjausnivelet ja -tangot,Seisontajarrun dynamometritesti
+Citroen,C4 PICASSO,"16,50",Etuakselisto,KÃ¤yttÃ¶jarru
+Citroen,C3,"16,59",SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD),Jarruvalo
+Mercedes-Benz,C,"16,85",Etuakselisto,Ohjausnivelet ja -tangot
+BMW,5,"16,86",Ohjausnivelet ja -tangot,KÃ¤yttÃ¶jarru
+Opel,ZAFIRA,"16,93",Ohjausnivelet ja -tangot,Taka-akselisto
+Kia,MAGENTIS,"16,99","",""
+Nissan,PRIMERA,"17,14",Ohjausnivelet ja -tangot,Etuakselisto
+Fiat,PUNTO,"17,62",Jousitus ja iskunvaimennus,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Volvo,XC90,"17,68",Jousitus ja iskunvaimennus,Seisontajarrun dynamometritesti
+Chevrolet,CAPTIVA,"18,06",Etuakselisto,KÃ¤yttÃ¶jarru
+Peugeot,207,"18,26",Etuakselisto,Jarruvalo
+Fiat,BRAVO,"18,35","",""
+Ford,TOURNEO,"18,52","",""
+Nissan,TIIDA,"18,92",Etuakselisto,Jousitus ja iskunvaimennus
+Chevrolet,EPICA,"19,01",KÃ¤yttÃ¶jarru,Taka-akselisto
+Chrysler,SEBRING,"19,43",Ohjausnivelet ja -tangot,SisÃ¤inen valvontajÃ¤rjestelmÃ¤ (OBD)
+Chevrolet,NUBIRA,"19,46",KÃ¤yttÃ¶jarru,Seisontajarrun dynamometritesti
+Mazda,5,"20,05",Jousitus ja iskunvaimennus,Etuakselisto
+Citroen,C4,"20,18",Ohjausnivelet ja -tangot,Etuakselisto
+Hyundai,SANTA FE,"20,41",Etuakselisto,Seisontajarrun dynamometritesti
+Peugeot,307,"20,49",Ohjausnivelet ja -tangot,Dieselmoottorin pakokaasumittaus
+Land Rover,DISCOVERY 3,"20,86","",""
+Mercedes-Benz,E,"21,24",Etuakselisto,Ohjausnivelet ja -tangot
+Citroen,C5,"21,27",Etuakselisto,Ohjausnivelet ja -tangot
+Dodge,AVENGER,"21,32",Ohjausnivelet ja -tangot,KÃ¤yttÃ¶jarru
+Renault,CLIO,"21,37",Ohjausnivelet ja -tangot,Etuakselisto
+Chrysler,VOYAGER,"22,10",Ohjausnivelet ja -tangot,Seisontajarrun dynamometritesti
+Jaguar,X-TYPE,"22,30",Taka-akselisto,Dieselmoottorin pakokaasumittaus
+Alfa Romeo,159,"22,51",Etuakselisto,Jousitus ja iskunvaimennus
+Fiat,ALBEA,"23,05",Etuakselisto,Ohjausnivelet ja -tangot
+Volkswagen,TRANSPORTER,"23,17",KÃ¤yttÃ¶jarru,Jousitus ja iskunvaimennus
+Dodge,NITRO,"24,87",Seisontajarrun dynamometritesti,Etuakselisto
+Renault,MEGANE,"25,08",Etuakselisto,Ohjausnivelet ja -tangot
+Fiat,CROMA,"25,15",Jousitus ja iskunvaimennus,Taka-akselisto
+Fiat,STILO,"26,15",Ohjausnivelet ja -tangot,Jousitus ja iskunvaimennus
+Kia,CARENS,"27,23",Seisontajarrun dynamometritesti,Taka-akselisto
+Mazda,CX-7,"27,48",Ohjausnivelet ja -tangot,Seisontajarrun dynamometritesti
+Kia,CARNIVAL,"28,48",Taka-akselisto,Etuakselisto
+Renault,LAGUNA,"32,62",Etuakselisto,Ohjausnivelet ja -tangot
+Chrysler,300,"37,02",Seisontajarrun dynamometritesti,Ohjausnivelet ja -tangot
+Jeep,PATRIOT,"37,82",Taka-akselisto,Etuakselisto
+Jeep,COMPASS,"43,72",Taka-akselisto,Etuakselisto
+Dodge,CALIBER,"44,54",Taka-akselisto,Etuakselisto

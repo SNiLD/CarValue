@@ -20,11 +20,10 @@ public:
     CarValueApplication(int& argc, char** argv);
     virtual ~CarValueApplication();
 
-    QAbstractItemModel* getModel();
-
 private:
     CarValueWindow m_window;
-    QStandardItemModel m_model;
+    QStandardItemModel m_trafiModel;
+    QStandardItemModel m_nettiautoModel;
 };
 
 #endif /* CARVALUEAPPLICATION_H_ */

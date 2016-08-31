@@ -1,0 +1,142 @@
+Merkki,Malli,Hylkäys %,Yleisin hylkäyssyy,Toiseksi yleisin hylkäyssyy
+Kaikki yhteensä,"","3,30","",""
+"","","","",""
+Mercedes-Benz,M,",00","",""
+Suzuki,SWIFT,",00","",""
+Audi,Q5,",46","",""
+Lexus,CT200H,",58","",""
+Volkswagen,TIGUAN,",65","",""
+Toyota,URBAN CRUISER,",66","",""
+Ford,KUGA,",80","",""
+Volvo,C70,",81","",""
+Toyota,LAND CRUISER,",81","",""
+Audi,A5,",82","",""
+Toyota,VERSO-S,",82","",""
+Volvo,C30,",83","",""
+Mazda,2,",93","",""
+Volvo,S60,",94","",""
+Toyota,COROLLA,"1,01","",""
+Mitsubishi,ASX,"1,02","",""
+Mazda,6,"1,24","",""
+Volvo,S40,"1,28","",""
+Audi,A4,"1,34","",""
+Suzuki,SX4,"1,34","",""
+Honda,JAZZ,"1,39","",""
+Volvo,XC60,"1,42","",""
+Mazda,3,"1,42","",""
+Toyota,AURIS,"1,43","",""
+Mitsubishi,LANCER,"1,49","",""
+Toyota,PRIUS,"1,49","",""
+Honda,CR-V,"1,55","",""
+Toyota,VERSO,"1,33","",""
+Toyota,YARIS,"1,66","",""
+Nissan,JUKE,"1,68","",""
+Volkswagen,JETTA,"1,71",Bensiinimoottorin pakokaasumittaus,Jousitus ja iskunvaimennus
+Nissan,QASHQAI,"1,72","",""
+Toyota,AVENSIS,"1,74","",""
+Audi,A3,"1,79",Renkaat ja vanteet,Bensiinimoottorin pakokaasumittaus
+Skoda,OCTAVIA,"1,79","",""
+Volvo,V50,"1,86",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Seat,LEON,"1,90","",""
+BMW,1,"1,92","",""
+Ford,FOCUS,"1,92","",""
+Volkswagen,GOLF,"1,93","",""
+Citroen,C1,"2,05","",""
+Skoda,YETI,"2,08","",""
+Honda,ACCORD,"2,11","",""
+Skoda,FABIA,"2,13","",""
+Ford,FOCUS C-MAX,"2,14",Renkaat ja vanteet,Valmistajan kilpi
+Audi,A6,"2,15",Renkaat ja vanteet,Valmistajan kilpi
+Mercedes-Benz,CLS,"2,20","",""
+Skoda,ROOMSTER,"2,20","",""
+Audi,AUDI A1,"2,21","",""
+Volkswagen,POLO,"2,22","",""
+BMW,3,"2,26","",""
+Chevrolet,CRUZE,"2,28","",""
+Volkswagen,PASSAT,"2,33",Renkaat ja vanteet,Etuakselisto
+Ford,FIESTA,"2,40",Ohjausnivelet ja -tangot,Renkaat ja vanteet
+Peugeot,107,"2,44","",""
+Volvo,V60,"2,44","",""
+Ford,FUSION,"2,49","",""
+Kia,PICANTO,"2,55","",""
+Mitsubishi,OUTLANDER,"2,62","",""
+Mini,COOPER/ ONE,"2,68","",""
+Seat,ALTEA,"2,69","",""
+Honda,CIVIC,"2,69","",""
+Seat,IBIZA,"2,69","",""
+Suzuki,ALTO,"2,73","",""
+Opel,ZAFIRA,"2,73","",""
+Audi,A7,"2,78","",""
+Skoda,SUPERB,"2,78",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Peugeot,508,"2,79","",""
+Hyundai,I 30,"2,93","",""
+Hyundai,I20,"2,95","",""
+Opel,ASTRA,"3,00","",""
+BMW,X5,"3,01","",""
+Saab,9-3,"3,08","",""
+Audi,Q7,"3,10","",""
+Seat,ALHAMBRA,"3,14","",""
+Kia,CEED,"3,18",Renkaat ja vanteet,Seisontajarrun dynamometritesti
+Opel,INSIGNIA,"3,23","",""
+Chevrolet,ORLANDO,"3,23","",""
+Mercedes-Benz,C,"3,25",Renkaat ja vanteet,Jousitus ja iskunvaimennus
+Volkswagen,SCIROCCO,"3,33","",""
+Toyota,RAV4,"3,43",Jousitus ja iskunvaimennus,Turvavyöt ja -varusteet
+Volkswagen,SHARAN,"3,46","",""
+Alfa Romeo,GIULIETTA,"3,54","",""
+Nissan,NOTE,"3,54",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+Chevrolet,SPARK,"3,55","",""
+Opel,CORSA,"3,58","",""
+Citroen,C3,"3,66",Sisäinen valvontajärjestelmä (OBD),Etuakselisto
+Kia,VENGA,"3,69",Jousitus ja iskunvaimennus,Käyttöjarru
+Honda,INSIGHT,"3,77","",""
+Nissan,MICRA,"3,77",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+Seat,EXEO ST,"3,82","",""
+Toyota,AYGO,"3,83","",""
+Mercedes-Benz,B,"3,86","",""
+Kia,SOUL,"3,92","",""
+Volkswagen,TOURAN,"4,00",Renkaat ja vanteet,Käyttöjarru
+Renault,LAGUNA,"4,17","",""
+Renault,TWINGO,"4,35","",""
+Subaru,FORESTER,"4,47",Taka-akselisto,Jousitus ja iskunvaimennus
+Volvo,V70,"4,67",Renkaat ja vanteet,Käyttöjarru
+Mercedes-Benz,GLK,"4,76","",""
+Chevrolet,AVEO,"4,82","",""
+Peugeot,206,"4,84","",""
+Fiat,PUNTO,"4,90","",""
+Citroen,C4,"4,92",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+BMW,5,"5,10",Valmistajan kilpi,Etuakselisto
+BMW,X3,"5,37",Valmistajan kilpi,Ohjausnivelet ja -tangot
+Opel,MERIVA,"5,48","",""
+Renault,MEGANE,"5,52",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+Volkswagen,CADDY,"5,57",Renkaat ja vanteet,Käyttöjarru
+Peugeot,RCZ,"5,71","",""
+Hyundai,IX20,"5,98",Seisontajarrun dynamometritesti,Käyttöjarru
+Hyundai,IX35,"6,09",Ohjausnivelet ja -tangot,Käyttöjarru
+Peugeot,207,"6,17",Valmistajan kilpi,Etuakselisto
+Mercedes-Benz,A,"6,42",Jousitus ja iskunvaimennus,Käyttöjarru
+Volvo,S80,"6,45","",""
+Mercedes-Benz,E,"6,46",Käyttöjarru,Renkaat ja vanteet
+Ford,S-MAX,"6,47","",""
+Citroen,BERLINGO,"6,49","",""
+Subaru,LEGACY,"6,58",Taka-akselisto,Käyttöjarru
+Ford,MONDEO,"7,08",Jousitus ja iskunvaimennus,Ohjausnivelet ja -tangot
+Kia,RIO,"7,36",Jousitus ja iskunvaimennus,Ohjausnivelet ja -tangot
+Ford,GALAXY,"7,75","",""
+Kia,SPORTAGE,"7,95",Ohjausnivelet ja -tangot,Seisontajarrun dynamometritesti
+Citroen,DS4,"8,26","",""
+Mazda,5,"8,27","",""
+Dacia,DUSTER,"8,68",Ohjausnivelet ja -tangot,Etuakselisto
+Peugeot,308,"8,74",Valmistajan kilpi,Etuakselisto
+Renault,CLIO,"8,92",Etuakselisto,Lähivalo
+Kia,SORENTO,"9,97",Seisontajarrun dynamometritesti,Valmistajan kilpi
+Citroen,C4 PICASSO,"10,76",Etuakselisto,Käyttöjarru
+Fiat,500,"11,18",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+Hyundai,I40,"12,30",Etuakselisto,Ohjausnivelet ja -tangot
+Peugeot,5008,"12,55",Valmistajan kilpi,Etuakselisto
+Hyundai,SANTA FE,"13,08","",""
+Peugeot,3008,"13,11",Etuakselisto,Valmistajan kilpi
+Ford,KA,"13,46",Etuakselisto,Sisäinen valvontajärjestelmä (OBD)
+Ford,TRANSIT,"14,40","",""
+Volkswagen,KOMBI,"15,46",Ohjausnivelet ja -tangot,Etuakselisto
+Citroen,C5,"16,79",Ohjausnivelet ja -tangot,Etuakselisto
