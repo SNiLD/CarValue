@@ -20,17 +20,20 @@ target_link_libraries(CarValue CarValueLib)
 get_target_property(QT5_LIBRARYPATH Qt5::Core LOCATION)
 get_filename_component(QT5_LIBRARYPATH ${QT5_LIBRARYPATH} PATH)
 
-get_filename_component(CarValueInstallationPath ${CMAKE_INSTALL_PREFIX}/bin/CarValue.exe REALPATH)
-set(executables "${CarValueInstallationPath}")
 set(dependency_directories ${QT5_LIBRARYPATH})
+
+include(InstallRequiredSystemLibraries)
 
 install(TARGETS CarValue DESTINATION bin)
 install(
     DIRECTORY "../data/trafi"
     DESTINATION "data"
     FILES_MATCHING PATTERN "*.csv")
+install(
+    FILES "../data/rust_protection.csv"
+    DESTINATION "data")
 
-#install(CODE "
-#    include(BundleUtilities)
-#    fixup_bundle(\"${executables}\" \"\" \"${dependency_directories}\")
-#")
+install(CODE "
+    include(BundleUtilities)
+    fixup_bundle(\"\${CMAKE_INSTALL_PREFIX}/bin/CarValue.exe\" \"\" \"${dependency_directories}\")
+")
